@@ -20,9 +20,9 @@ export function Player() {
                     <span>00:00</span>
                 </div>
 
-                <div className={styles.button}>
+                <div className={styles.buttons}>
                     <button type="button">
-                        <img src="/shuffler.svg" alt="Embaralhar" />
+                        <img src="/shuffle.svg" alt="Embaralhar" />
                     </button>
                     <button type="button">
                         <img src="/play-previous.svg" alt="Tocar aterior" />
